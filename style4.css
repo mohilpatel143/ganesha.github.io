@@ -1,0 +1,16 @@
+
+.wishes{
+	height: 1100px;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+
+.wishes h1{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.text-left p{
+    text-align: center;	
+}

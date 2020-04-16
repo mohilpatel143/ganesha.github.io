@@ -1,0 +1,23 @@
+.information{
+	height: 1100px;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+
+.information h1{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.card{
+	text-align: center;
+}
+
+.information h4{
+	text-align: center;
+}
+
+.information1 p{
+	text-align: center;
+}

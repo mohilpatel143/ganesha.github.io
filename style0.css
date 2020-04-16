@@ -1,0 +1,20 @@
+.bgimg{
+	background-image: url('background home.jpg');
+	background-size:100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 723px;
+}
+
+.headerset{
+   padding-top: 350px;
+   
+}
+
+.headerset h2{
+	width: 100%;
+	margin-top: 5px;
+	text-transform: uppercase;
+	text-align: center;
+	color:white;
+}
